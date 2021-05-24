@@ -1,4 +1,5 @@
 **Build Week ttwpt_188 Sauti Africa Marketplace back-end**
+Project hosted @ https://sauti-african-market-db.herokuapp.com/ 
 
 # Current working endpoints include:
     - POST method for new *user* registration
