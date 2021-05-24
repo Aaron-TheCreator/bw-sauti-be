@@ -1,6 +1,6 @@
 **Buiild Week ttwpt_188(?) Sauti Africa MArketplace back-end**
 
-# MVP endpoints will include:
+# MVP endpoints include:
     - POST method for new *user* registration
         - '/api/auth/registration'
 
